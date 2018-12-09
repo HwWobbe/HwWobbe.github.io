@@ -3,6 +3,7 @@
 
 <hr>
 
+* try this with 5.1.18
 * pursue this, but not until after MultiUser's recent bug fix is installed
 * consider making this a nodeJs *tid based instance, especially if an external *.tid store evolves
 * try uploading a TW5 file to repo ( as a first step )
