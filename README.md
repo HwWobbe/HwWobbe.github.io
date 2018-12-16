@@ -3,6 +3,7 @@
 
 <hr>
 
+* review the most recent documentation findings
 * try this with 5.1.18, now that it has been released.
 * consider the use of MaarfaPad, if it can be accessed via its URL.
 * pursue this with Bob, but not until after MultiUser decvelopments are complete
