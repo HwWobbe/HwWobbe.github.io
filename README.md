@@ -1,6 +1,6 @@
 # HwWobbe.github.io
 * This repo can hold a TW5 file?  It's name suggests so, based on what I've seen of other instances.
-* the file (type) may be a reqirement
+* the file (type) may be a requirement
 * this repo was not apparent
 * Most recent edit
 
