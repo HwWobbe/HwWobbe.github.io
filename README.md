@@ -4,10 +4,10 @@
 * this repo was not apparent
 * Most recent confirmation edit, reviewed 2018.12.26 to prove that at least a "Commit directly" works reliably for me.
 * Apperently there may be a delay in seeing the effect on an update Commit.
+* Review AccessMethods and the documentation findings contained in TwH.
 
 <hr>
 
-* review the most recent documentation findings
 * try this with 5.1.18, now that it has been released.
 * consider the use of MaarfaPad, if it can be accessed via its URL.
 * pursue this with Bob, but not until after MultiUser developments are complete
