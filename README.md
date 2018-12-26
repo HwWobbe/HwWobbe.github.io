@@ -2,7 +2,7 @@
 * This repo can hold a TW5 file?  It's name suggests so, based on what I've seen of other instances.
 * the file (type) may be a requirement
 * this repo was not apparent
-* Most recent confirmation edit, reviewed 2018.12.26.
+* Most recent confirmation edit, reviewed 2018.12.26 to prove that at least a "Commit directly" works reliably for me.
 
 <hr>
 
