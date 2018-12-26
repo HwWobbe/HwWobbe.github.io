@@ -9,7 +9,7 @@
 * review the most recent documentation findings
 * try this with 5.1.18, now that it has been released.
 * consider the use of MaarfaPad, if it can be accessed via its URL.
-* pursue this with Bob, but not until after MultiUser decvelopments are complete
+* pursue this with Bob, but not until after MultiUser developments are complete
 * consider making this a nodeJs *tid based instance, especially if an external *.tid store evolves
 * try uploading a TW5 file to repo ( as a first step )
 * try forking an existing TW
