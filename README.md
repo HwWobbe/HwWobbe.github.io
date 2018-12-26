@@ -3,6 +3,7 @@
 * the file (type) may be a requirement
 * this repo was not apparent
 * Most recent confirmation edit, reviewed 2018.12.26 to prove that at least a "Commit directly" works reliably for me.
+* Apperently there may be a delay in seeing the effect on an update Commit.
 
 <hr>
 
