@@ -1,7 +1,6 @@
 # HwWobbe.github.io ( TasksH )
 * This repo can hold a TW5 file?  It's name suggests so, based on what I've seen of other instances.
 * the file (type) may be a requirement
-* this repo was not apparent
 * Most recent confirmation edit, reviewed 2018.12.26 to prove that at least a "Commit directly" works reliably for me.
 * Apperently there is a delay in seeing the effect of an update Commit.
 * Review AccessMethods and the documentation findings contained in TwH.
@@ -21,3 +20,9 @@
 * this could have developer access that someone like Arlen could setup
 
 * Private repos are apparently only available to Premium ($7/month) users 
+
+<hr>
+
+* this repo was not apparent
+
+^
