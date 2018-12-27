@@ -1,9 +1,8 @@
 # HwWobbe.github.io ( TasksH )
-* Try adding a trivial TW5 file, ot perhaps just generated static pages.
+* Try adding a trivial TW5 file, ot perhaps just generated structure of static pages.
 * the file (type) may be a requirement
 * Apperently there is a delay in seeing the effect of an update Commit.
 * Review AccessMethods and the documentation findings contained in TwH.
-* consider a structure of geneerated static pages
 
 <hr>
 
