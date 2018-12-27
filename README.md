@@ -6,7 +6,7 @@
 
 <hr>
 
-* consider making this a nodeJs *tid based instance, especially if an external *.tid store evolves
+* consider making this a nodeJs *tid based instance, especially as my external *.tid store evolves
 * try uploading a TW5 file to repo ( as a first step )
 * try forking an existing TW
 
