@@ -1,6 +1,6 @@
 # HwWobbe.github.io ( TasksH )
 * This repo can hold a TW5 file?  It's name suggests so, based on what I've seen of other instances.
-* .. Try adding a trivial TW% file.
+* .. Try adding a trivial TW5 file.
 * .... store this text
 * the file (type) may be a requirement
 * Most recent confirmation edit, reviewed 2018.12.26 to prove that at least a "Commit directly" works reliably for me.
