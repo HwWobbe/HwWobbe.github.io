@@ -1,7 +1,6 @@
 # HwWobbe.github.io ( TasksH )
 * Try adding a trivial TW5 file.
 * the file (type) may be a requirement
-* Most recent confirmation edit, reviewed 2018.12.26 to prove that at least a "Commit directly" works reliably for me.
 * Apperently there is a delay in seeing the effect of an update Commit.
 * Review AccessMethods and the documentation findings contained in TwH.
 
