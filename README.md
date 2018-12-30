@@ -18,9 +18,9 @@ Transitions during a 40+ year career ...
 * ... > Retirement
 * ... > ... Clearly just a weekend hacker now.
 
-<br> .. work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
-<br> .. chats & Topics are available via twitter > https://twitter.com/HansWobbe
-<br> .. play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
+<br> .. Work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
+<br> .. Play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
+<br> .. Comments, chats & Topics are available via twitter > https://twitter.com/HansWobbe
 
 <hr>
 
