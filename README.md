@@ -15,7 +15,7 @@ Transitions during a 40+ year career ...
 * Executive (IPO experience) > 
 * Special Projects Change Agent >
 * Founder & CEO >
-* ... > Retirement
+* ... > Working towards retirement.
 * ... > ... Clearly just a weekend hacker now.
 
 <br> .. Work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
