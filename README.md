@@ -24,7 +24,7 @@ Transitions during a 40+ year career ...
 
 <hr>
 
-* Add some MarkDown styling to this page.
+* Extend the MarkDown styling of this page.
 * Try adding a trivial TW5 file, or perhaps just a generated structure of static pages.
 * the file (type) may be a requirement
 * Apperently there is a delay in seeing the effect of an update Commit.
