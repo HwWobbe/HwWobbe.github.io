@@ -12,6 +12,7 @@ This page is evolving to become a core Introduction.
 
 <hr>
 
+* Do commits of this page trigger increments?
 * consider making this a nodeJs *tid based instance, especially as my external *.tid store evolves
 * try uploading a TW5 file to repo ( as a first step )
 * try forking an existing TW
