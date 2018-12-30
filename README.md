@@ -32,8 +32,6 @@ Transitions during a 40+ year career ...
 
 <hr>
 
-* Do commits of this page trigger increments?
-* Commits are either being given an incorrect Date or are not being accumulated.
 * consider making this a nodeJs *tid based instance, especially as my external *.tid store evolves
 * try uploading a TW5 file to repo ( as a first step )
 * try forking an existing TW
