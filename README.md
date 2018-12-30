@@ -43,8 +43,4 @@ Transitions during a 40+ year career ...
 
 * Private repos are apparently only available to Premium ($7/month) users 
 
-<hr>
-
-* 2012.12: this repo was not apparent
-
 ^
