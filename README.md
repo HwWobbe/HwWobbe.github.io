@@ -19,8 +19,8 @@ Transitions during a 40+ year career ...
 * ... > ... Clearly just a weekend hacker now.
 
 <br> .. Work is summarized best @ <a href="https://www.linkedin.com/in/hans-wobbe-37634a/">linkedIn</a>
-<br> .. Play is best summarized @ <a href="https://www.flickriver.com/photos/hwo/popular-interesting/"Flickr</a>
-<br> .. Comments, chats & Topics & opinions @ twitter <a href="https://twitter.com/HansWobbe"twitter</a>
+<br> .. Play is best summarized @ <a href="https://www.flickriver.com/photos/hwo/popular-interesting/">Flickr</a>
+<br> .. Comments, chats & Topics & opinions @ twitter <a href="https://twitter.com/HansWobbe">twitter</a>
 
 <hr>
 
