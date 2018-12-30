@@ -2,6 +2,26 @@
 
 This page is evolving to become a core Introduction.
 
+<h2> About me ...</h2>
+
+I use TiddlyWiki (for Content)... a LOT!  I also use other Tools (that show what I do, how I do it and, hence, who I am).
+
+Transitions during a 40+ year career ...
+
+* Programmer >
+* Technical Sales & Sales Management > 
+* Consulting > 
+* Banking technologist ( Senior Management ) > 
+* Executive (IPO experience) > 
+* Special Projects Change Agent >
+* Founder & CEO >
+* ... > Retirement
+* ... > ... Clearly just a weekend hacker now.
+
+<br> .. work is summarized best @ LinkedIn > https://www.linkedin.com/in/hans-wobbe-37634a/
+<br> .. chats & Topics are available via twitter > https://twitter.com/HansWobbe
+<br> .. play is best summarized via http://www.flickriver.com/photos/hwo/popular-interesting/
+
 <hr>
 
 * Add some MarkDown styling to this page.
