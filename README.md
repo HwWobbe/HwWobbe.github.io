@@ -1,6 +1,6 @@
 # HwWobbe.github.io ( TasksH )
 
-This page is evolving to become my core Introduction.
+This page will become my core/common Introduction.
 
 <h2> About me ...</h2>
 
