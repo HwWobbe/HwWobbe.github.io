@@ -24,6 +24,4 @@ Transitions during a 40+ year career ...
 
 <hr>
 
-* ( Test edit interactions between Direct and Desktip edits. )
-
 ^
