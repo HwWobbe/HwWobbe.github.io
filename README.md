@@ -24,4 +24,9 @@ Transitions during a 40+ year career ...
 <br> .. Tools( ..., DynaList, Diigo, ... )
 <hr>
 
+Next ...
+
+Increased use of Pull Requests
+.. 
+
 ^
