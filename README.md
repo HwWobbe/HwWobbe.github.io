@@ -27,6 +27,6 @@ Transitions during a 40+ year career ...
 Next ...
 
 * Increased use of Pull Requests
-* .. 
+* Wiki review
 
 ^
