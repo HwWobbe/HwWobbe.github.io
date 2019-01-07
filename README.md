@@ -24,6 +24,6 @@ Transitions during a 40+ year career ...
 <br> .. Tools( ..., DynaList, Diigo, ... )
 <hr>
 
-Next https://github.com/HwWobbe/HwWobbe.github.io/wiki
+Next > https://github.com/HwWobbe/HwWobbe.github.io/wiki
 
 ^
