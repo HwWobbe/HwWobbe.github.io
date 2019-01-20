@@ -19,9 +19,6 @@
 * try uploading a TW5 file to repo ( as a first step )
 * try forking an existing TW
 
-* consider hosting options ...
 * TiddlySpot ( may be easiest )
-* Azure hosting, with just a link from here, especially if it can run a nodeJs instance
-* this could have developer access that someone like Arlen could setup
 
 * Private repos are apparently only available to Premium ($7/month) users 
