@@ -25,7 +25,7 @@ Transitions during a 40+ year career ...
 <br> .. Tools( ..., DynaList, Diigo, ... )
 <hr>
 
-Next > 
+<h2> Next > 
 * testing Synchronization via StackEdit
 * https://github.com/HwWobbe/HwWobbe.github.io/wiki
 
