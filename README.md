@@ -40,15 +40,18 @@ Transitions during a 40+ year career ...
 * Clearly just a weekend hacker now.
 
 <br> .. Work is summarized best @ <a href="https://www.linkedin.com/in/hans-wobbe-37634a/">linkedIn</a>
-<br> .. Play is best summarized @ <a href="https://www.flickriver.com/photos/hwo/popular-interesting/">Flickr</a>
+<br> .. Play is best summarized @ <a href="https://www.flickr.com/people/hwo/">Flickr</a>
 <br> .. Comments, chats & Topics & opinions @ <a href="https://twitter.com/HansWobbe">twitter</a>
 <br> .. Tools( ..., DynaList, Diigo, ... )
 <hr>
 
-* and de2a14620ffc522d893087c14bad1903a9f05762
-
 Next > 
 <br> testing Synchronization via StackEdit
 <br> https://github.com/HwWobbe/HwWobbe.github.io/wiki
+=======
+<h2> Next ...</h2>
+  
+* testing Synchronization via StackEdit
+* https://github.com/HwWobbe/HwWobbe.github.io/wiki
 
 ^
