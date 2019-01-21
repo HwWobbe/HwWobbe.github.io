@@ -42,12 +42,13 @@ Transitions during a 40+ year career ...
 <br> .. Play is best summarized @ <a href="https://www.flickr.com/people/hwo/">Flickr</a>
 <br> .. Comments, chats & Topics & opinions @ <a href="https://twitter.com/HansWobbe">twitter</a>
 <br> .. Tools( ..., DynaList, Diigo, ... )
+
 <hr>
 
-Next > 
+Next >
 <br> testing Synchronization via StackEdit
 <br> https://github.com/HwWobbe/HwWobbe.github.io/wiki
-=======
+
 <h2> Next ...</h2>
   
 * testing Synchronization via StackEdit
