@@ -1,8 +1,4 @@
 # HwWobbe.github.io readme
-...
-
-# HwWobbe.github.io ( TasksH )
-
 This page is becoming my core/common Introduction.
 
 <h2> About me ...</h2>
