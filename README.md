@@ -33,10 +33,6 @@ Transitions during a 40+ year career ...
 
 <hr>
 
-Next >
-<br> testing Synchronization via StackEdit
-<br> https://github.com/HwWobbe/HwWobbe.github.io/wiki
-
 <h2> Next ...</h2>
   
 * testing Synchronization via StackEdit
