@@ -9,8 +9,6 @@
 
 # HwWobbe.github.io ( TasksH )
 
-* another is de2a14620ffc522d893087c14bad1903a9f05762
-
 This page will become my core/common Introduction.
 
 <h2> About me ...</h2>
