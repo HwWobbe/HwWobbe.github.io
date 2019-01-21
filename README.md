@@ -7,7 +7,7 @@
 
 # HwWobbe.github.io ( TasksH )
 
-This page will become my core/common Introduction.
+This page is becoming my core/common Introduction.
 
 <h2> About me ...</h2>
 
