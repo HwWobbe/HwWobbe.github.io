@@ -4,7 +4,6 @@
 * the file (type) may be a requirement
 * I seem to be able to edit this on my desktop, now.  (2018.12.25)
 * Confirm that this is happening reliably (since there seem to be two versions)
-* Most recent confirmation edit os f92b593a75bbbc7c71a6ef25f5d4e2eed560d496
 
 # HwWobbe.github.io ( TasksH )
 
