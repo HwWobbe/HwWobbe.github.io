@@ -2,7 +2,6 @@
 
 * This repo can hold a TW5 file?  It's name suggests so, based on what I've seen of other instances.
 * the file (type) may be a requirement
-* this repo was not apparent
 * I seem to be able to edit this on my desktop, now.  (2018.12.25)
 * Confirm that this is happening reliably (since there seem to be two versions)
 * Most recent confirmation edit os f92b593a75bbbc7c71a6ef25f5d4e2eed560d496
