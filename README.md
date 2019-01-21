@@ -46,11 +46,4 @@ Next >
 * testing Synchronization via StackEdit
 * https://github.com/HwWobbe/HwWobbe.github.io/wiki
 
-<hr>
-
-* This repo can hold a TW5 file?  It's name suggests so, based on what I've seen of other instances.
-* The file (type) is significant.
-* I seem to be able to edit this on my desktop, now.
-* Confirm that this is happening reliably.
-
 ^
