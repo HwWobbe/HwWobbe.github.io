@@ -25,7 +25,6 @@ I use TiddlyWiki (for Content)... a LOT!  I also use other Tools (that show what
 * try uploading a TW5 file to repo ( as a first step )
 * try forking an existing TW
 
-=======
 Transitions during a 40+ year career ...
 
 * Programmer >
