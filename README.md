@@ -16,7 +16,7 @@ Transitions during a 40+ year career ...
 * Founder & CEO >
 * ... > Working towards retirement.
 * ... "I would rather give my best Business ideas to my fiercest competitor that have them starve from neglect." :HwWvW
-* Clearly just a weekend hacker now.
+* Clearly just a company Director and a weekend hacker now.
 
 <br> .. Work is summarized best @ <a href="https://www.linkedin.com/in/hans-wobbe-37634a/">linkedIn</a>
 <br> .. Play is best summarized @ <a href="https://www.flickr.com/people/hwo/">Flickr</a>
