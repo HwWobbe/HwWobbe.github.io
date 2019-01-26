@@ -9,7 +9,7 @@ Transitions during a 40+ year career ...
 
 * Programmer >
 * Technical Sales & Sales Management > 
-* Consulting > 
+* Management Consulting > 
 * Banking technologist ( Senior Management ) > 
 * Executive (IPO experience) > 
 * Special Projects Change Agent >
