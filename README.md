@@ -5,9 +5,6 @@ This page is becoming my core/common Introduction, references from most other si
 
 I use TiddlyWiki (for Content)... a LOT!  I also use other Tools (that show what I do, how I do it and, hence, who I am).
 
-* try uploading a TW5 file to repo ( as a first step )
-* try forking an existing TW
-
 Transitions during a 40+ year career ...
 
 * Programmer >
@@ -29,7 +26,9 @@ Transitions during a 40+ year career ...
 <hr>
 
 <h2> Next ...</h2>
-  
+
+* try uploading a TW5 file to repo ( as a first step )
+* try forking an existing TW
 * ...
 * review the most recent documentation findings
 * try this with 5.1.18, now that it has been released.
