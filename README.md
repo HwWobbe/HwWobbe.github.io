@@ -35,6 +35,7 @@ Transitions during a 40+ year career ...
 
 <h2> Next ...</h2>
   
+* ...
 * https://github.com/HwWobbe/HwWobbe.github.io/wiki
 
 ^
