@@ -1,5 +1,5 @@
 # HwWobbe.github.io readme
-This page is becoming my core/common Introduction, references from most other sites I use.
+This page is my core/common Introduction, referenced from most other sites I use.
 
 <h2> About me ...</h2>
 
