@@ -1,3 +1,7 @@
+# Do: ...
+* test this pages use for hosting a TW5 file.
+* ...
+
 # HwWobbe.github.io readme
 This page is my core/common Introduction, referenced from most other sites I use.<br>
 <br> .. Work is summarized best @ <a href="https://www.linkedin.com/in/hans-wobbe-37634a/">linkedIn</a>
