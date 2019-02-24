@@ -1,6 +1,8 @@
 # Do: ...
 * test this page's use for hosting a TW5 file.
+* consider a gist approach
 * add links to staging Wikis.
+* https://github.com/Jermolene/TiddlyWiki5 try a fork of this, eventually.
 * ...
 
 # HwWobbe.github.io readme
