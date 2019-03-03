@@ -1,7 +1,6 @@
 # Do: ...
 * test this page's use for hosting a TW5 file.
 * remove all content so it can be over-written safely
-* consider a gist approach
 * add links to staging Wikis.
 * https://github.com/Jermolene/TiddlyWiki5 try a fork of this, eventually.
 * ...
