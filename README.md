@@ -1,5 +1,4 @@
 # Do: ...
-* Empty this repository so it can be re-used.
 * Test this page's use for hosting a TW5 file.
 * add links to staging Wikis.
 * https://github.com/Jermolene/TiddlyWiki5 try a fork of this, eventually.
