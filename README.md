@@ -1,7 +1,7 @@
 # HwWobbe.github.io
 This file may be part of a 'hello-world' introduction.
 
-* more rigotously, it cahn be referred to as https://github.com/HwWobbe/HwWobbe.github.io
+* more rigotously, it can be referred to as https://github.com/HwWobbe/HwWobbe.github.io
 
 ## Explore ...
 
