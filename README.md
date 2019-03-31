@@ -6,4 +6,4 @@ This file appears to be an "introductory"(?) file.  Explore ...
 * its specific capabilities
 * * can it be used via StackEdit?
 
-* Gists are being used now.
+* Gists are being used, too.
