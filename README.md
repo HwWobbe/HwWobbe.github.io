@@ -3,7 +3,7 @@ This file may be part of a 'hello-world' introduction.
 
 * more rigotously, it cahn be referred to as https://github.com/HwWobbe/HwWobbe.github.io
 
-This file appears to be an "introductory"(?) file.  Explore ...
+## Explore ...
 
 * its specific capabilities
 * * -03-31: can it be used via StackEdit?
