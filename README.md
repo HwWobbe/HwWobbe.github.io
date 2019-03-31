@@ -7,5 +7,6 @@ This file appears to be an "introductory"(?) file.  Explore ...
 
 * its specific capabilities
 * * -03-31: can it be used via StackEdit?
+* * * Can it host a TW5 instance?
 * * * Conformed the ability to edit this via SysH.
 * Gists are being used, too.
