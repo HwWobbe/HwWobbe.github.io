@@ -1,5 +1,7 @@
 # HwWobbe.github.io
-This file may be part of a 'hello-world' introduction and a placeholder for a TW5 file
+This file may be part of a 'hello-world' introduction and a placeholder for a TW5 file.
+
+* more rigotously: https://github.com/HwWobbe/HwWobbe.github.io
 
 This file appears to be an "introductory"(?) file.  Explore ...
 
