@@ -2,6 +2,8 @@
 This file may be part of a 'hello-world' introduction.
 
 * more rigorously, it can be referred to as https://github.com/HwWobbe/HwWobbe.github.io
+* confirm this file is synced via StackEdit
+
 
 ## Explore ...
 
