@@ -16,5 +16,5 @@ This file may be part of a 'hello-world' introduction.
 * * * Conformed the ability to edit this via SysH.
 * * * investigate this further before closing.
 * * -04-1?:
-* * * ...
+* * * confirm that ":index.html" is a generic filename I may be able to use with Disqus
 * Gists are being used, too.
