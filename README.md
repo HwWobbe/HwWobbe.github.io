@@ -5,6 +5,7 @@ This file may be part of a 'hello-world' introduction.
 * confirm this file is synced via StackEdit
 * 2019-04-09: updated via github edits, that should be confirmed on TabH.
 * * ...
+* 2019-04-13: craft a link to DiigoH
 
 
 ## Explore ...
