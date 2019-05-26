@@ -5,8 +5,9 @@ This file may be part of a 'hello-world' introduction.
 * * ( test this from a different Source )
 * confirm this file is synced 
 * * ( bi-directionally ) via StackEdit
-* 2019-04-09: updated via github edits
-* 2019-04-14: craft a link to DiigoH
+* 2019.05.26: 
+* 2019.04.09: updated via github edits
+* 2019.04.14: craft a link to DiigoH
 * * perhaps this file can host a Disqus instance
 
 
