@@ -2,6 +2,7 @@
 This file may be part of a 'hello-world' introduction.
 
 * more rigorously, it can be referred to as https://github.com/HwWobbe/HwWobbe.github.io
+* * ( test this from a different Source )
 * confirm this file is synced ( bi-directionally ) via StackEdit
 * 2019-04-09: updated via github edits
 * 2019-04-14: craft a link to DiigoH
