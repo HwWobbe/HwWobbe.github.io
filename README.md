@@ -1,6 +1,8 @@
 # HwWobbe.github.io
 This file may be part of a 'hello-world' introduction.
 
+* re-visit this objective in light of recent Saver developments.
+* * ...
 * more rigorously, it can be referred to as https://github.com/HwWobbe/HwWobbe.github.io
 * * ( test this from a different Source )
 * confirm this file is synced 
