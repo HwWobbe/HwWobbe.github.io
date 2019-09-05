@@ -4,6 +4,7 @@ This file may be part of a 'hello-world' introduction.
 * 2019.08: re-visit this objective in light of recent Saver developments.
 * more rigorously, it can be referred to as https://github.com/HwWobbe/HwWobbe.github.io
 * * ( test this from a different Source )
+* consider the impacts of the level  ( Master / Branch )
 * confirm this file is synced 
 * * ( bi-directionally ) via StackEdit
 * 2019.05.26: 
