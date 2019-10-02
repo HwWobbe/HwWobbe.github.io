@@ -5,6 +5,7 @@ This file may be part of a 'hello-world' introduction.
 * more rigorously, it can be referred to as https://github.com/HwWobbe/HwWobbe.github.io
 * * ( test this from a different Source )
 * consider the impacts of the level  ( Master / Branch )
+* review the (tiddly)wikiFarm at 
 * confirm this file is synced 
 * * ( bi-directionally ) via StackEdit
 * 2019.05.26: 
