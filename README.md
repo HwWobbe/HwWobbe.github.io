@@ -3,7 +3,7 @@ This file may be part of a 'hello-world' introduction.
 
 * 2019-11-30: month end review(s)
 * 2019.10:
-* * Curbside & rpTiddlyTables merged.
+* * Curbside & TiddlyTables merged.
 * 2019.08: re-visit this objective in light of recent Saver developments.
 * more rigorously, it can be referred to as https://github.com/HwWobbe/HwWobbe.github.io
 * * ( test this from a different Source )
