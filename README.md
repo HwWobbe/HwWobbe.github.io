@@ -4,6 +4,7 @@ This file may be part of a 'hello-world' introduction.
 * 2019-11-30: month end review(s)
 
 ## 2019.11:
+* investigate the apparent links.
 * ...
 
 ## 2019.10:
