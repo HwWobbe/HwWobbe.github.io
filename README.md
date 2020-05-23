@@ -1,6 +1,7 @@
 # HwWobbe.github.io
 This file may be part of a 'hello-world' introduction.
 
+* 2020.05.24: re-evaluating synching editors to assess the Recent developments.
 * 2020.05.09: review 
 * 2020.04.04: review stackEdit
 * 2019-12-10: JSON distribution of TwV improvements.
