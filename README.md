@@ -1,7 +1,7 @@
 # HwWobbe.github.io
 This file may be part of a 'hello-world' introduction.
 
-* 2020.08.03: plnning 2020.08: activities:
+* 2020.08.03: planning 2020.08: activities:
 * * ...
 * 2020.07.12: Resuming more active Business technology development
 * 2020.05.31: blocked Productivity due to a few major CoVid19 spawned delays.
