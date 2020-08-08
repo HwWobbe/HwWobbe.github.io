@@ -2,7 +2,7 @@
 This file may be part of a 'hello-world' introduction.
 
 * 2020.08.03: planning 2020.08: activities:
-* * ...
+* * reduce "Planning" & "DoMore" will be beneficial
 * 2020.07.12: Resuming more active Business technology development
 * 2020.05.31: blocked Productivity due to a few major CoVid19 spawned delays.
 * * hoping to be caught up by end of 2020.06.
