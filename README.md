@@ -2,6 +2,8 @@
 This file may be part of a 'hello-world' introduction.
 
 * 2020.08.23: considering the SSH key needs
+* * Smart Tiddlywiki + Tiddloid + Notebook
+* * * https://groups.google.com/g/tiddlywiki/c/4_QG28G93LQ/m/BprRDOqiGAAJ
 * 2020.08.03: planning 2020.08: activities:
 * * reduce "Planning" & "DoMore" will be beneficial
 * 2020.07.12: Resuming more active Business technology development
