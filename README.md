@@ -1,6 +1,7 @@
 # HwWobbe.github.io
 This file may be part of a 'hello-world' introduction.
 
+* 2020.08.23: considering the SSH key needs
 * 2020.08.03: planning 2020.08: activities:
 * * reduce "Planning" & "DoMore" will be beneficial
 * 2020.07.12: Resuming more active Business technology development
