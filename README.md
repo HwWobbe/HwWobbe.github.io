@@ -3,6 +3,7 @@ This file may be part of a 'hello-world' introduction.
 
 * 2020.09.10: imminent discussions with Google Partner.
 * * confirm local and cloud syncs
+* * * start with G:drive files
 * 2020.08.23: considering the SSH key needs
 * * Smart Tiddlywiki + Tiddloid + Notebook
 * * * https://groups.google.com/g/tiddlywiki/c/4_QG28G93LQ/m/BprRDOqiGAAJ
