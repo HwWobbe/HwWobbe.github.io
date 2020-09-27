@@ -1,6 +1,8 @@
 # HwWobbe.github.io
 This file may be part of a 'hello-world' introduction.
 
+* Address Management solutions need to co-ordinate many different references to the same physical location.
+* ...
 * 2020.09.10: imminent discussions with Google Partner.
 * * confirm local and cloud syncs
 * * * start with G:drive files
