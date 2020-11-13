@@ -1,5 +1,8 @@
 # HwWobbe.github.io
-This file will be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki use(s).
+This file will be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
+
+## Topics:
+The existing TopicsTw stuructures will need re-desin in order to converge on a consistent methodology that spans the major technologies currently in use.
 
 * Address Management solutions need to co-ordinate many different references to the same physical location.
 * * ...
