@@ -1,5 +1,5 @@
 # HwWobbe.github.io
-This file may be part of a 'hello-world' introduction.
+This file will be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki use(s).
 
 * Address Management solutions need to co-ordinate many different references to the same physical location.
 * * ...
