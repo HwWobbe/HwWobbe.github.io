@@ -6,6 +6,8 @@ The existing TopicsTw structures will need re-desin in order to converge on a co
 * e.g.: http://hww-tw.droppages.com/HwwTw.html
 
 * the name/... structure is likely problematic
+* * compare this to the repo names of other working installations
+* * * ...
 
 ----
 
