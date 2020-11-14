@@ -7,7 +7,7 @@ The existing TopicsTw stuructures will need re-desin in order to converge on a c
 ----
 
 * Address Management solutions need to co-ordinate many different references to the same physical location.
-* * ...
+* * Remember that support for Legacy systems is needed for long TimePeriods.
 * 2020.09.10: imminent discussions with Google Partner.
 * * confirm local and cloud syncs
 * * * start with G:drive files
