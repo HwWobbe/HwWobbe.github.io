@@ -17,13 +17,15 @@ The existing TopicsTw stuructures will need re-desin in order to converge on a c
 * 2020.08.03: planning 2020.08: activities:
 * * reduce "Planning" & "DoMore" will be beneficial
 * 2020.07.12: Resuming more active Business technology development
+* 2020.04.04: review stackEdit
+* 2019-12-10: JSON distribution of TwV improvements.
+* 2019-11-30: month end review(s)
+
+## 2020.05:
 * 2020.05.31: blocked Productivity due to a few major CoVid19 spawned delays.
 * * hoping to be caught up by end of 2020.06.
 * 2020.05.24: re-evaluating synching editors to assess the Recent developments.
 * 2020.05.09: review 
-* 2020.04.04: review stackEdit
-* 2019-12-10: JSON distribution of TwV improvements.
-* 2019-11-30: month end review(s)
 
 ## 2019.11:
 * investigate the apparent links.
