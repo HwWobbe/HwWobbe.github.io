@@ -11,15 +11,17 @@ The existing TopicsTw structures will need re-desin in order to converge on a co
 * 2020.09.10: imminent discussions with Google Partner.
 * * confirm local and cloud syncs
 * * * start with G:drive files
+* 2020.07.12: Resuming more active Business technology development
+* 2020.04.04: review stackEdit
+* 2019-12-10: JSON distribution of TwV improvements.
+* 2019-11-30: month end review(s)
+
+## 2020.08 - 2020.11
 * 2020.08.23: considering the SSH key needs
 * * Smart Tiddlywiki + Tiddloid + Notebook
 * * * https://groups.google.com/g/tiddlywiki/c/4_QG28G93LQ/m/BprRDOqiGAAJ
 * 2020.08.03: planning 2020.08: activities:
 * * reduce "Planning" & "DoMore" will be beneficial
-* 2020.07.12: Resuming more active Business technology development
-* 2020.04.04: review stackEdit
-* 2019-12-10: JSON distribution of TwV improvements.
-* 2019-11-30: month end review(s)
 
 ## 2020.05:
 * 2020.05.31: blocked Productivity due to a few major CoVid19 spawned delays.
