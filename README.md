@@ -10,10 +10,10 @@ The existing TopicsTw structures will need re-desin in order to converge on a co
 * * Remember that support for Legacy systems is needed for long TimePeriods.
 * 2020.07.12: Resuming more active Business technology development
 * 2020.04.04: review stackEdit
+
+## 2020.08 - 2020.12
 * 2019-12-10: JSON distribution of TwV improvements.
 * 2019-11-30: month end review(s)
-
-## 2020.08 - 2020.11
 * 2020.09.10: imminent discussions with Google Partner.
 * * confirm local and cloud syncs
 * * * start with G:drive files
