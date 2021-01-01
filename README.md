@@ -2,7 +2,7 @@
 This file will be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
 
 * re-test this under Release 5.1.23 now that it is available
-* an Interim measure may be to use the DropPages interface
+* an Interim solution may be to use the DropPages interface
 
 ## Topics:
 The existing TopicsTw structures will need re-design in order to converge on a consistent methodology that spans the major technologies currently in use.
