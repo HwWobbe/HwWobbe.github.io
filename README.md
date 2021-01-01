@@ -1,7 +1,7 @@
 # HwWobbe.github.io
 This file will be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
 
-* re-test this under Release 5.1.23
+* re-test this under Release 5.1.23 now that it is available
 
 ## Topics:
 The existing TopicsTw structures will need re-design in order to converge on a consistent methodology that spans the major technologies currently in use.
