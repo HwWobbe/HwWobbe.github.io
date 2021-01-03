@@ -3,7 +3,7 @@ This file will be part of an expanding 'hello-world' introduction that is based 
 
 * re-test this under Release 5.1.23 now that it is available
 * * 2021.01.02: so far, so good
-* * trying for ...pages (again)
+* * 2021.01.03: trying for ...pages (again)
 * an Interim solution may be to use the DropPages interface
 * *  http://hww-tw.droppages.com/HwwTw.html
 
