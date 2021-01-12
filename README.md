@@ -2,7 +2,7 @@
 This file will be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
 
 * re-test this under Release 5.1.23 now that it is available
-* * 2021.01.02: so far, so good
+* * 2021.01.11: so far, so good
 * * 2021.01.03: trying for ...pages (again)
 * * * 2021.01.04: Upgrading
 * an Interim solution may be to use the DropPages interface
