@@ -7,6 +7,7 @@ This file will be part of an expanding 'hello-world' introduction that is based 
 * * * 2021.01.04: Upgrading
 * an Interim solution may be to use the DropPages interface
 * *  http://hww-tw.droppages.com/HwwTw.html
+* * * test this option
 
 ## Topics:
 The existing TopicsTw structures will need re-design in order to converge on a consistent methodology that spans the major technologies currently in use.
