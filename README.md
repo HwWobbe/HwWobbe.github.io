@@ -1,7 +1,6 @@
 # HwWobbe.github.io
-This file will be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
-
-* 2021.02.0: ...
+* This file could be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
+* * 2021-03-0?: TiddlyHost becomes the corrent priority
 * 2021.02.06: Review API key
 * 2021.01.23: start designing Containerization methodologies
 * re-test this under Release 5.1.23 now that it is available
