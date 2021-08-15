@@ -2,6 +2,7 @@
 * Schedule a re-visit to Github as a TwHost site.
 * * keep evolving the twOnly apprach, but remain open minded about the NodeJs version(s) support 
 * * * review the NodeJs work CJ has done
+* * * * * build a-new using LapH since it is likely to replace SysH ( for SysD use )
 * * TiddlyHost meets many of these needs, but does not have adequate Permission granularity for some of my uses. 
 * This file could be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
 * * 2021-03-0?: TiddlyHost becomes the corrent priority
