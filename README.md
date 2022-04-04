@@ -1,5 +1,6 @@
 # HwWobbe.github.io
-* Schedule a re-visit to Github as a TwHost site.
+* Schedule re-visit(s) to Github as a TwHost site.
+* * 2022-034-04: enhancing some Project structures at GitHub
 * * 2021.09.16: consider https://github.com/saqimtiaz/TW5-github-actions-example
 * * 2021.08.30 new(er) instructions are emerging and should be tested, from the start.
 * * 2021.08.16 review in the light of recent developments
