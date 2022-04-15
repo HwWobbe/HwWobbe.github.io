@@ -1,4 +1,5 @@
 # HwWobbe.github.io
+* discuss Savers with Eric since he seems to have simplified this
 * Schedule re-visit(s) to Github as a TwHost site.
 * * 2022-04-04: enhancing some Project structures at GitHub
 * * * Anticipating reduced GitHub use friction ass a result of the emerging TwSavers
