@@ -1,6 +1,9 @@
 # HwWobbe.github.io
 * discuss Savers with Eric since he seems to have simplified this
 * Schedule re-visit(s) to Github as a TwHost site.
+* * drive this via Project (as a control point)
+* * * consider ToDo capabilities hosted in email, with nonWord Tags
+* * * * this might support the EdD efforts ( assign to Lz )
 * * 2022-04-04: enhancing some Project structures at GitHub
 * * * Anticipating reduced GitHub use friction ass a result of the emerging TwSavers
 * * 2021.09.16: consider https://github.com/saqimtiaz/TW5-github-actions-example
