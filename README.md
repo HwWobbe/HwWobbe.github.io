@@ -1,5 +1,6 @@
 # HwWobbe.github.io
 * discuss Savers with Eric since he seems to have simplified this
+* * it appeared to be as simple as a Saver name change
 * Schedule re-visit(s) to Github as a TwHost site.
 * * drive this via Project (as a control point)
 * * * consider ToDo capabilities hosted in email, with nonWord Tags
