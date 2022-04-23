@@ -6,7 +6,7 @@
 * * * consider ToDo capabilities hosted in email, with nonWord Tags
 * * * * this might support the EdD efforts ( assign to Lz )
 * * 2022-04-04: enhancing some Project structures at GitHub
-* * * Anticipating reduced GitHub use friction ass a result of the emerging TwSavers
+* * * Anticipating reduced GitHub use friction as a result of the emerging TwSavers
 * * 2021.09.16: consider https://github.com/saqimtiaz/TW5-github-actions-example
 * * 2021.08.30 new(er) instructions are emerging and should be tested, from the start.
 * * 2021.08.16 review in the light of recent developments
