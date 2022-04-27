@@ -4,6 +4,8 @@
 * Schedule re-visit(s) to Github as a TwHost site.
 * * drive this via Project (as a control point)
 * * * consider ToDo capabilities hosted in email, with nonWord Tags
+* * * * consider HeadStart contexts
+* * * * * test this as a Build (rather than TransClusion)
 * * * * this might support the EdD efforts ( assign to Lz )
 * * 2022-04-04: enhancing some Project structures at GitHub
 * * * Anticipating reduced GitHub use friction as a result of the emerging TwSavers
