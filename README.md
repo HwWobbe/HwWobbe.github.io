@@ -2,6 +2,7 @@
 * discuss Savers with Eric since he seems to have simplified this
 * * it appeared to be as simple as a Saver name change
 * Schedule re-visit(s) to Github as a TwHost site.
+* * started linking to these repos from external Private contexts
 * * drive this via Project (as a control point)
 * * * consider ToDo capabilities hosted in email, with nonWord Tags
 * * * * this might support the EdD efforts ( assign to Lz )
