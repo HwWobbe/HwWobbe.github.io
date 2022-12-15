@@ -1,4 +1,5 @@
 # HwWobbe.github.io
+* there is good documentation I need to review
 * discuss Savers with Eric since he seems to have simplified this
 * * it appeared to be as simple as a Saver name change
 * * * explore the new TiddlyTools first
