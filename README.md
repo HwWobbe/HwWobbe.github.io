@@ -1,5 +1,6 @@
 # HwWobbe.github.io
-* there is good documentation I need to review
+* there is good documentation I need to review to access some of the GitHub benefits 
+* * ...
 * discuss Savers with Eric since he seems to have simplified this
 * * it appeared to be as simple as a Saver name change
 * * * explore the new TiddlyTools first
