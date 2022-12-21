@@ -1,7 +1,10 @@
 # HwWobbe.github.io
-* there is good documentation I need to review to access some of the GitHub benefits 
-* * ...
+There is good documentation I need to review to access some of the GitHub benefits.
+
+# 2023-01:
+* ...
 * discuss Savers with Eric since he seems to have simplified this
+* * consider the need for this capability if BobH or NodeJs use is re-stored
 * * it appeared to be as simple as a Saver name change
 * * * explore the new TiddlyTools first
 * Schedule re-visit(s) to Github as a TwHost site.
