@@ -3,6 +3,7 @@ There is good documentation I need to review to access some of the GitHub benefi
 
 # 2023-01:
 * test this more extensively (since I think it should work as a host site)
+* * extend this plan
 * discuss Savers with Eric since he seems to have simplified this
 * * consider the need for this capability if BobH or NodeJs use is re-stored
 * * it appeared to be as simple as a Saver name change
