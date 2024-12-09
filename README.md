@@ -1,6 +1,9 @@
 # HwWobbe.github.io
 There is good documentation I need to review to access some of the GitHub benefits.
 
+# 2024-12:
+## The resurection.
+
 # 2023-01:
 * test this more extensively (since I think it should work as a host site)
 * * extend this plan
