@@ -6,8 +6,8 @@ There is good documentation I need to review to access some of the GitHub benefi
 This may have started as a place to srore a TwH file.
 
 - investigate that before created a cluttered Meld
- - also investigate Synching to the local copy,
-   - ...
+  - also investigate Synching to the local copy,
+    - ...
 
 
 # 2023-01:
