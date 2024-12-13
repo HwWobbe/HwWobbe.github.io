@@ -8,6 +8,7 @@ This may have started as a place to srore a TwH file.
   - also investigate Synching to the local copy,
     - seems easy, but take time to ensure the updates are satisfactory - correct and timely
       - do local edits Count ?  Do I care?  Pulse indications may be diminished.
+      - other issues?
 - verify the spavcing changes within this block
 - ...
 
