@@ -13,7 +13,7 @@ This may have started as a place to store a TwH file.
       - do local edits Count ?  Do I care?
         - Pulse indications may be diminished. ; PulseEdits versus a ReviewEdit
       - other issues?
-- verify the spavcing changes within this block
+- verify the spacing changes within this block
 - ...
 
 
