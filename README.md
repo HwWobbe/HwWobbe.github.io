@@ -15,44 +15,6 @@ This may have started as a place to store a TwH file.
           - PulseEdits versus a ReviewEdit
 - is the effort to break some of this out as a separate File justified?
 
-
-# 2023-01:
-* test this more extensively (since I think it should work as a host site)
-* * extend this plan
-* * * a NodeJs LocalHost focus might be first
-* * * * "primitives" users will likely assist by needing additional documentation
-* discuss Savers with Eric since he seems to have simplified this
-* * consider the need for this capability if BobH or NodeJs use is re-stored
-* * it appeared to be as simple as a Saver name change
-* * * explore the new TiddlyTools first
-* Schedule re-visit(s) to Github as a TwHost site.
-* * drive this via Project (as a control point)
-* * * consider ToDo capabilities hosted in email, with nonWord Tags
-* * * * consider HeadStart contexts
-* * * * * test this as a Build (rather than TransClusion)
-* * * * this might support the EdD efforts ( assign to Lz )
-* * 2022-04-04: enhancing some Project structures at GitHub
-* * * Anticipating reduced GitHub use friction as a result of the emerging TwSavers
-* * 2021.09.16: consider https://github.com/saqimtiaz/TW5-github-actions-example
-* * 2021.08.30 new(er) instructions are emerging and should be tested, from the start.
-* * 2021.08.16 review in the light of recent developments
-* * keep evolving the twOnly apprach, but remain open minded about the NodeJs version(s) support 
-* * * review the NodeJs work CJ has done
-* * * * * build a-new using LapH since it is likely to replace SysH ( for SysD use )
-* * TiddlyHost meets many of these needs, but does not have adequate Permission granularity for some of my uses. 
-* This file could be part of an expanding 'hello-world' introduction that is based on my TiddlyWiki (...Tw) use(s).
-* * 2021-03-0?: TiddlyHost becomes the corrent priority
-* 2021.02.06: Review API key
-* 2021.01.23: start designing Containerization methodologies
-* re-test this under Release 5.1.23 now that it is available
-* * 2021.01.11: so far, so good
-* * * ..16: check for pertinent refinements
-* * 2021.01.03: trying for ...pages (again)
-* * * 2021.01.04: Upgrading
-* an Interim solution may be to use the DropPages interface
-* *  http://hww-tw.droppages.com/HwwTw.html
-* * * test this option
-
 ## Topics:
 The existing TopicsTw structures will need re-design in order to converge on a consistent methodology that spans the major technologies currently in use.
 * e.g.: http://hww-tw.droppages.com/HwwTw.html
