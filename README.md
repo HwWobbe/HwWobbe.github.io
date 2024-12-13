@@ -7,7 +7,7 @@ This may have started as a place to srore a TwH file.
 - investigate that before created a cluttered Meld
   - also investigate Synching to the local copy,
     - seems easy, but take time to ensure the updates are satisfactory - correct and timely
-      - do local edits Count ?  Do I care?  Pulse indications may be diminished.
+      - do local edits Count ?  Do I care?  Pulse indications may be diminished. ; PulseEdits versus a ReviewEdit
       - other issues?
 - verify the spavcing changes within this block
 - ...
