@@ -17,7 +17,10 @@ This may have started as a place to store a TwH file.
 
 ## Topics:
 The existing TopicsTw structures will need re-design in order to converge on a consistent methodology that spans the major technologies currently in use.
-* e.g.: http://hww-tw.droppages.com/HwwTw.html
+- e.g.:
+  - resolve the apparent issues of 2020
+  - http://hww-tw.droppages.com/HwwTw.html
+  -  ...
 
 * the name/... structure is likely problematic
 * * compare this to the repo names of other working installations
