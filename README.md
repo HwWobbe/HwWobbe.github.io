@@ -10,8 +10,7 @@ This may have started as a place to store a TwH file.
   - also investigate Synching to the local copy,
     - seems easy, but take time to ensure the updates are satisfactory - correct and timely
   - do local edits Count ?  Do I care?
-      - Pulse indications may be diminished. 
-        - PulseEdits versus a ReviewEdit
+      - Pulse indications may be diminished. ; PulseEdits versus a ReviewEdit ? ; ... 
 - is the effort to break some of this out as a separate File justified?
   - - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#tn
 
