@@ -6,7 +6,7 @@ There is good documentation I need to review to access some of the GitHub benefi
 This may have started as a place to store a TwH file.
 - remove content from this area into locations that are on better Paths
   - a 2023 folder may be useful for de-cluttering by enhancing focus
-- investigate that before created a cluttered Meld
+    - investigate that before created a cluttered Meld
   - also investigate Synching to the local copy,
     - seems easy, but take time to ensure the updates are satisfactory - correct and timely
       - do local edits Count ?  Do I care?
