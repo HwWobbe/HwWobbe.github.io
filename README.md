@@ -9,8 +9,7 @@ This may have started as a place to store a TwH file.
     - investigate that before created a cluttered Meld
   - also investigate Synching to the local copy,
     - seems easy, but take time to ensure the updates are satisfactory - correct and timely
-  - do local edits Count ?  Do I care?
-      - Pulse indications may be diminished. ; PulseEdits versus a ReviewEdit ? ; ... 
+  - do local edits Count ?  Do I care ? `/` Pulse indications may be diminished. ; PulseEdits versus a ReviewEdit ? ; ... 
 - is the effort to break some of this out as a separate File justified?
 
 <hr>
