@@ -4,6 +4,8 @@ There is good documentation I need to review to access some of the GitHub benefi
 # 2025-01:
 
 # 2025-12:
+- strive for a centralized TopQuickLinks
+
 
 <hr>
 
