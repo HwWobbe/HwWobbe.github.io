@@ -1,7 +1,8 @@
 # HwWobbe.github.io
-There is good documentation I need to review to access some of the GitHub benefits.
+Minimize the use of this area pending tests of ...IO has a TwHost site
 
 # 2025-01:
+- There is good documentation I need to review to access some of the GitHub benefits.
 
 # 2025-12:
 - strive for a centralized TopQuickLinks
