@@ -1,6 +1,8 @@
 # HwWobbe.github.io
 There is good documentation I need to review to access some of the GitHub benefits.
 
+# 2025-01:
+
 # 2025-12:
 
 # 2024-12:
