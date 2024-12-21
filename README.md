@@ -1,5 +1,6 @@
 # HwWobbe.github.io
-Minimize the use of this area pending tests of ...IO has a TwHost site
+- Minimize the use of this area pending tests of ...IO has a TwHost site
+  - identify the locations that content can be removed to
 
 # 2025-01:
 - There is good documentation I need to review to access some of the GitHub benefits.
