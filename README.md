@@ -5,6 +5,7 @@
 
 # 2025-01:
 - There is good documentation I need to review to access some of the GitHub benefits.
+  - Copilot is also useful.
 
 # 2025-12:
 - strive for a centralized TopQuickLinks
