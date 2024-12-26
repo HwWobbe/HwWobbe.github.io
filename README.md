@@ -9,6 +9,7 @@
   - Copilot is also useful.
 
 # 2025-12:
+- test the ease of editing the Sorcery Relationship diagrams
 - strive for a centralized TopQuickLinks
 
 
