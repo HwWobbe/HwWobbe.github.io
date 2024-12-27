@@ -3,6 +3,7 @@
   - identify the locations that content can be removed to
     - as a last resort use TiddlyHost - in spite of my Sponsorship
   - hardCopy of the active GIST exists -  in paper files
+  - Python may be a valueDigression
 
 # 2025-01:
 - There is good documentation I need to review to access some of the GitHub benefits.
