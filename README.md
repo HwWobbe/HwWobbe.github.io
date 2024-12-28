@@ -4,7 +4,7 @@
     - as a last resort use TiddlyHost - in spite of my Sponsorship
   - hardCopy of the active GIST exists -  in paper files
   - Python may be a valueDigression - a recent Medium article strongly suggested this
-    - a 108 page sheetCheart  !!
+    - a 108 page sheetCheart  !!  Persist in making minimal changes in this repo.
 
 # 2025-01:
 - There is good documentation I need to review to access some of the GitHub benefits.
