@@ -3,8 +3,6 @@
   - identify the locations that content can be removed to
     - as a last resort use TiddlyHost - in spite of my Sponsorship ; consider Medium or subStack
   - hardCopy of the active GIST exists -  in paper files ; consider texting on GIST(s)
-  - Python may be a valueDigression - a recent Medium article strongly suggested this
-    - a 108 page sheetCheart  !!  Persist in making minimal changes in this repo.
 
 # 2025-12:
 - test the ease of editing the Sorcery Relationship diagrams
