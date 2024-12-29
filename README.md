@@ -26,9 +26,6 @@ This may have started as a place to store a TwH file.
 
 <hr>
 
-### quickLinks:
-- https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#tn
-
 ## Topics:
 The existing TopicsTw structures will need re-design in order to converge on a consistent methodology that spans the major technologies currently in use.
 - e.g.:
