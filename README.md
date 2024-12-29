@@ -6,10 +6,6 @@
   - Python may be a valueDigression - a recent Medium article strongly suggested this
     - a 108 page sheetCheart  !!  Persist in making minimal changes in this repo.
 
-# 2025-01:
-- There is good documentation I need to review to access some of the GitHub benefits.
-  - Copilot is also useful.
-
 # 2025-12:
 - test the ease of editing the Sorcery Relationship diagrams
 - strive for a centralized TopQuickLinks
