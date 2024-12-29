@@ -2,7 +2,7 @@
 - Minimize the use of this area pending tests that ...IO has a TwHost site
   - identify the locations that content can be removed to
     - as a last resort use TiddlyHost - in spite of my Sponsorship ; consider Medium or subStack
-  - hardCopy of the active GIST exists -  in paper files ; consider texting on GIST(s)
+  - hardCopy of the active GIST exists -  in paper files ; consider temporary texting on GIST(s)
 
 # 2025-12:
 - test the ease of editing the Sorcery Relationship diagrams
