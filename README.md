@@ -1,7 +1,7 @@
 # HwWobbe.github.io
 - Minimize the use of this area pending tests that ...IO has a TwHost site
   - identify the locations that content can be removed to
-    - as a last resort use TiddlyHost - in spite of my Sponsorship
+    - as a last resort use TiddlyHost - in spite of my Sponsorship ; consider Medium or subStack
   - hardCopy of the active GIST exists -  in paper files
   - Python may be a valueDigression - a recent Medium article strongly suggested this
     - a 108 page sheetCheart  !!  Persist in making minimal changes in this repo.
