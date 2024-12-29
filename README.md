@@ -31,8 +31,6 @@ This may have started as a place to store a TwH file.
 <hr>
 
 ### quickLinks:
-...
-
 - https://github.com/Data-Integrity-Group/Wip/blob/main/README.md#tn
 
 ## Topics:
