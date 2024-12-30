@@ -5,8 +5,7 @@
   - hardCopy of the active GIST exists -  in paper files ; consider temporary texting on GIST(s)
 
 # 2025-12:
-- test the ease of editing the Sorcery Relationship diagrams
-- strive for a centralized TopQuickLinks that includes toGists
+- test edit the Sorcery Relationship diagrams & try for a centralized TopQuickLinks that includes toLists
 
 
 <hr>
