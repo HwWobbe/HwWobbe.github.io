@@ -4,6 +4,11 @@
     - as a last resort use TiddlyHost - in spite of my Sponsorship ; consider Medium or subStack
   - hardCopy of the active GIST exists -  in paper files ; consider temporary texting on GIST(s)
 
+## 2025-01:
+
+## 2025-11:
+...
+
 # 2025-12:
 - test edit the Sorcery Relationship diagrams & try for a centralized TopQuickLinks that includes toLists
 
