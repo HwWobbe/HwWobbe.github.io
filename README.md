@@ -1,5 +1,5 @@
 # HwWobbe.github.io
-- Minimize the use of this area pending tests that ...IO has a TwHost site
+- Minimize the use of this area until tests show ...IO has a TwHost site
   - identify the locations that content can be removed to
     - as a last resort use TiddlyHost - in spite of my Sponsorship ; consider Medium or subStack
   - hardCopy of the active GIST exists -  in paper files ; consider temporary texting on GIST(s)
